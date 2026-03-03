@@ -1,4 +1,3 @@
-# outlook
-Useful macros for Outlook
+# Useful macros for Outlook
 
 **InsertGreeting**  При создании нового письма макрос берёт из поля to ФИО в формате "Фамилия Имя Отчество" и добавляет первую строку в письме "Уважаемый Имя Отчество". Макрос написан ChatGPT.
